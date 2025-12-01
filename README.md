@@ -4,15 +4,12 @@ Hello there, I'm Maria 😄
 <p align="center">
 I'm a final year Computer Science student at the University of Adelaide with a special interest in AI and Data Science.
 </p>
-<p align="center">
-I work on small projects to improve my programming and problem solving skills!
-</p>
 <hr/>
 <p align="center">
-<a href="https://github.com/Mriamdkzhy/github-readme-stats" >
+<a href="https://github.com/mriamdkzhy/github-readme-stats" >
   <img src="https://github-readme-stats.vercel.app/api?username=Mriamdkzhy&show_icons=true&rank_icon=github&hide=prs&title_color=613659&icon_color=613659&bg_color=EAE7FA"/>
 </a>
-<a href="https://github.com/Mriamdkzhy/convoychat">
+<a href="https://github.com/mriamdkzhy/convoychat">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mriamdkzhy&layout=compact&langs_count=8&card_width=320&title_color=613659&icon_color=613659&bg_color=EAE7FA" />
 </a>
 </p>
